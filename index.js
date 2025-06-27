@@ -137,4 +137,4 @@ function countDown() {
 }
   //setting Copyright
   
- document.querySelector("#copyright").innerHTML="Copy right to A.Ahmad "+(new Date().getFullYear());
+ document.querySelector("#copyright").innerHTML="© 2023 Ashfaq Ahmad with ❤️ "+(new Date().getFullYear());
